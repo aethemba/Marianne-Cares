@@ -1,0 +1,5 @@
+<Alloy>
+	<View id="headerContainer">
+		<Label id="header">Marianne Cares</Label>
+	</View>
+</Alloy>

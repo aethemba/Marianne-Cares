@@ -1,0 +1,20 @@
+<Alloy>
+	<Window id="container">
+		<View id="headerContainer">
+			<Label id="header">Marianne's Quotes</Label>
+		</View>
+		<TableView id="table">
+			<TableViewRow title="Put on your party-suit! -Suzanne"/>
+            <TableViewRow title="Personas are the key! -Bart"/>
+            <TableViewRow title="Water in the Maas. -Niels"/>
+            <TableViewRow title="Forever young! -Malou"/>
+            <TableViewRow title="No quote (bug fixing) -Mark"/>
+            <TableViewRow title="Pragmatisch is prachtig :) -Frans"/>
+            <TableViewRow title="Simple: Beer Or Singing. -Nguyen"/>
+            <TableViewRow title="I'll be your cameraman! -Marco"/>
+            <TableViewRow title="Let me be your Valentine! -Aksel"/>
+            <TableViewRow title="Tijd om te shinen! -Liane"/>
+		</TableView>
+		<Button id="detailClose" onClick="closeWindow">Close window</Button>
+	</Window>
+</Alloy>

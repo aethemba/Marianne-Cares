@@ -1,0 +1,15 @@
+<Alloy>
+	<Window id="container">
+		<View id="headerContainer">
+			<Label id="header">Marianne's Gifs</Label>
+		</View>
+		<ScrollView id="scrollView" showVerticalScrollIndicator="true" height="370dp" width="100%">
+            <View id="view" height="800" width="100%">
+            	<ImageView id="image1" />
+            	<ImageView id="image2" />
+            	<ImageView id="image3" />
+            </View>
+        </ScrollView>
+		<Button id="detailClose" onClick="closeWindow">Close window</Button>
+	</Window>
+</Alloy>

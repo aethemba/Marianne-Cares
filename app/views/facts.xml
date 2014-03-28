@@ -1,0 +1,11 @@
+<Alloy>
+	<Window id="container">
+		<View id="headerContainer">
+			<Label id="header">Marianne's Facts</Label>
+		</View>
+		<TableView id="table">
+			<TableViewRow title="Facts are coming!"/>
+		</TableView>
+		<Button id="detailClose" onClick="closeWindow">Close window</Button>
+	</Window>
+</Alloy>

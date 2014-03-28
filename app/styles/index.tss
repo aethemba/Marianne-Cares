@@ -1,0 +1,25 @@
+"#container": {
+	backgroundColor: "white",
+}
+
+"#buttons": {
+	layout: "vertical",
+	top: 60,
+}
+
+".btn": {
+	backgroundColor: "#fcb915",
+	//backgroundColor: "#229cd8",
+	top: '70dp',
+	width: '260dp',
+	color: "white",
+	font: {
+		fontFamily: "Arial",
+		fontSize: 24,
+		fontWeight: "bold"
+	}
+}
+
+'#facts' : {
+	visible: false
+}

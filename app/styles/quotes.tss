@@ -1,0 +1,37 @@
+"#headerContainer": {
+	top: 0,
+	height: "80dp",
+	//backgroundColor: "#fcb915"
+	backgroundColor: "#229cd8"
+}
+
+"#header": {
+	color: "white",
+	font: {
+		fontFamily: "Arial",
+		fontSize: 32,
+		fontWeight: "bold"
+	}
+}
+
+"#table": {
+	height: "320dp"
+}
+
+"#container": {
+	backgroundColor: "white",
+	layout: "vertical"
+}
+
+"#detailClose": {
+	//backgroundColor: "#fcb915",
+	backgroundColor: "#229cd8",
+	top: "30dp",
+	width: '260dp',
+	color: "white",
+	font: {
+		fontFamily: "Arial",
+		fontSize: 24,
+		fontWeight: "bold"
+	}
+}

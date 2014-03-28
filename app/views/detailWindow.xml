@@ -1,0 +1,6 @@
+<Alloy>
+	<Window id="detailWindow">
+		<Require type="view" src="header"/>	
+		<Button id="detailClose" onClick="closeWindow">Close window</Button>
+	</Window>
+</Alloy>

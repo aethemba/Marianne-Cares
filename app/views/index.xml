@@ -1,0 +1,11 @@
+<Alloy>
+	<Window id="container" >
+		<Require type="view" src="header"/>	
+		<View id="buttons">
+			<Button class="btn" id="soundbites">Soundsbites</Button>
+			<Button class="btn" id="gifs">Animated Gifs</Button>
+			<Button class="btn" id="quotes">Quotes</Button>
+			<Button class="btn" id="facts">Fun Facts</Button>
+		</View>
+	</Window>
+</Alloy>

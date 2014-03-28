@@ -1,0 +1,14 @@
+"#detailWindow": {
+	backgroundColor: "red",
+	layout: "vertical"
+}
+
+"#detailLabel": {
+	top: "10dp"
+}
+
+"#detailClose": {
+	width: Ti.UI.SIZE,
+	height: Ti.UI.SIZE,
+	backgroundColor: "blue",
+}

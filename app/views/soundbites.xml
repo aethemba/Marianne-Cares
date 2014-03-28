@@ -1,0 +1,17 @@
+<Alloy>
+	<Window id="soundbites">
+		<View id="headerContainer">
+			<Label id="header">Marianne's Soundbites</Label>
+		</View>	
+		<View id="btnsContainer">
+			<Button class="btn" id="btn1" onClick="playSound">Benton</Button>
+			<Button class="btn" id="btn2" onClick="playSound">Buzzer</Button>
+			<Button class="btn" id="btn3" onClick="playSound">Young</Button>
+			<Button class="btn" id="btn4" onClick="playSound">Katy</Button>
+			<Button class="btn" id="btn5" onClick="playSound">That's me</Button>
+			<Button class="btn" id="btn6" onClick="playSound">Hi!</Button>
+		</View>
+
+		<Button id="detailClose" onClick="closeWindow">Close window</Button>
+	</Window>
+</Alloy>
